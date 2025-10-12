@@ -22,3 +22,6 @@ Pluto.run()
 ```
 
 then select required notebook
+
+contents:
+basic_analysis
